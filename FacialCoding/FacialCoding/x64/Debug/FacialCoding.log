@@ -1,0 +1,10 @@
+﻿  FacialCoding.cpp
+c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\dlib-18.10\dlib\general_hash\random_hashing.h(448): warning C4838: conversion from 'double' to 'const float' requires a narrowing conversion
+c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\dlib-18.10\dlib\general_hash\random_hashing.h(860): warning C4838: conversion from 'double' to 'const float' requires a narrowing conversion
+c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\dlib-18.10\dlib\threads\multithreaded_object_extension.cpp(31): warning C4297: 'dlib::multithreaded_object::~multithreaded_object': function assumed not to throw an exception but does
+  c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\dlib-18.10\dlib\threads\multithreaded_object_extension.cpp(31): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\dlib-18.10\dlib\threads\threaded_object_extension.cpp(32): warning C4297: 'dlib::threaded_object::~threaded_object': function assumed not to throw an exception but does
+  c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\dlib-18.10\dlib\threads\threaded_object_extension.cpp(32): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\dlib-18.10\dlib\gui_widgets\drawable.cpp(521): warning C4297: 'dlib::drawable::~drawable': function assumed not to throw an exception but does
+  c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\dlib-18.10\dlib\gui_widgets\drawable.cpp(521): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\aditi singla\documents\visual studio 2015\projects\facialcoding\facialcoding\facialcoding.cpp(120): error C3861: 'get_face_chip_details': identifier not found
